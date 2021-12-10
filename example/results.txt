@@ -1,0 +1,22 @@
+Chair type of Wooden has the length of 50, the width of 50 and the height of 50
+Chair type of Metal has the length of 50, the width of 50 and the height of 40
+Chair type of Plastic has the length of 60, the width of 40 and the height of 45
+_________________________________________________________
+Chair(s) with the largest area is(are):
+Wooden
+Metal
+_________________________________________________________
+The hall has the length of 2300 and the width of 500
+_________________________________________________________
+Wooden type chair is valid for the hall
+240 number of Wooden type chairs is enough for the hall
+
+Metal type chair is valid for the hall
+240 number of Metal type chairs is enough for the hall
+
+Plastic type chair is valid for the hall 
+224 number of Plastic type of chairs is enough for the hall
+_________________________________________________________
+The length of the hall set to 2000
+_________________________________________________________
+Plastic type will be needed the least when the length of hall decreases by 300
