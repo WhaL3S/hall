@@ -1,0 +1,16 @@
+Chair type of Wooden has the length of 50, the width of 60 and the height of 55
+Chair type of Metal has the length of 60, the width of 60 and the height of 60
+Chair type of Plastic has the length of 50, the width of 40 and the height of 35
+_________________________________________________________
+Chair(s) with the largest area is(are):
+Metal
+_________________________________________________________
+The hall has the length of 2300 and the width of 500
+_________________________________________________________
+Wooden type chair is not valid for the hall
+Metal type chair is not valid for the hall
+Plastic type chair is not valid for the hall
+_________________________________________________________
+The length of the hall set to 2000
+_________________________________________________________
+None of the given types of chair can be placed in the hall
